@@ -1,0 +1,4 @@
+[submodule "scratch"]
+	path = scratch
+	url = git@github.com:jjmckain/scratch.git
+	branch = master
